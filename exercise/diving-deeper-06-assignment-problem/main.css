@@ -1,0 +1,23 @@
+html, body {
+        height: 100%;
+        margin: 0px;
+    }
+
+.box1{
+	border: 5px solid black;
+	padding: 5px 10px 15px 20px;
+	margin : 20px 15px 10px 5px;
+	height: 300px;
+	width: 40%;
+	display: inline-block;
+}
+
+.box11{
+	visibility: hidden;
+	box-sizing: border-box;
+}
+
+.box12:hover{
+	background-color: green;
+}
+	
